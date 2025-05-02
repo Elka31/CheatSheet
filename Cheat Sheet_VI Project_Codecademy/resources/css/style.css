@@ -1,0 +1,205 @@
+#title {
+    font-family: 'Playfair Display', serif;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 60px;
+    font-weight: 700;
+}
+
+/* Headings */
+.heading {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Section colors */
+
+
+
+
+#color-section {
+    display: flex;
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 20px;
+}
+
+
+.F9F9F6 {
+    background-image: url('../images/f9f9f6.png');
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+}
+
+.E5DCC3 {
+    background-image: url('../images/e5dcc3.png');
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+.third-color {
+    background-image: url('../images/2f2f2f.png');
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border: 1px solid black;
+}
+
+
+* {
+    margin: 0 auto !im
+}
+
+
+/*
+.color-section-soft-white,
+.color-block-warm-beige,
+.color-block-muted-charcoal {
+    font-family: 'roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    border: 1px solid #000;
+    margin: 10px;
+    text-align: center;
+    width: 130px;
+    unicode-bidi: isolate;
+}
+
+section div span {
+
+}
+
+*/
+
+
+/* Section fonts */
+.font-section-center {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.fonts-playfair-display {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.fonts-playfair-display h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.fonts-playfair-display h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fonts-playfair-display p {
+    font-family: 'Playfair Display', serif;
+    font-weight: italic;
+    font-size: 16px;
+}
+
+.fonts-poppins {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.fonts-poppins h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.fonts-poppins h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fonts-poppins p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: italic;
+    font-size: 16px;
+}
+
+.fonts-roboto {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.fonts-roboto h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.fonts-roboto h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.fonts-roboto p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: italic;
+    font-size: 16px;
+}
+
+/* Text Styles */
+.text-styles-description {
+    font-size: 19px;
+    font-family: 'Roboto';
+    font-weight: normal;
+    margin: 0 auto;
+    max-width: 1000px;
+    margin-bottom: 100px;
+    text-align: left;
+}
+
+.h1-main-page-heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.h2-subheading {
+    font-family: 'Poppins';
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.p-paragraph {
+    font-family: 'roboto';
+    font-size: 23px;
+    font-weight: 400;
+}
+
+
+
+/* footer */
+.footer {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+}
